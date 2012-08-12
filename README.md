@@ -1,4 +1,4 @@
-php-mb_str_replace
+Provides an mb_str_replace function for PHP
 ==================
 
-PHP - Multibyte String Replace
+This function has been adapted from that provided by [Lee Byron](http://www.php.net/manual/en/ref.mbstring.php#107631).
